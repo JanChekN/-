@@ -31,6 +31,12 @@ h1 {
     font-family: Moscow Sans Regular;
 }
 
+.par-4{
+    font-style: italic;
+    text-align: center;
+    font-size: 24pt;
+}
+
 .standart_text{
     font-family: Moscow Sans Regular;
 }
